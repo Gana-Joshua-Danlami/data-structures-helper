@@ -1,12 +1,12 @@
 # 📌 Data Structures Helper Functions
 
-## 🚀 Overview
-This repository was created to help **AltSchool Africa students** better understand **data structures** while working on their assignments. Many students encountered difficulties, so I decided to build this **structured guide** to make learning easier.
+##  Overview
+This repository was created to help **Fellow AltSchool Africa students** better understand **data structures** while working on their 1st semester assignments. Some students encountered difficulties, so I decided to build this **structured guide** to make learning easier.
 
 This repo contains:
-✅ **Helper Functions** – Clean, well-structured code that solves each task.
-✅ **Detailed Explanations** – Step-by-step breakdown of what each function does.
-✅ **Common Errors & Fixes** – Lessons from mistakes and how to avoid them.
+ **Helper Functions** – Clean, well-structured code that solves each task.
+ **Detailed Explanations** – Step-by-step breakdown of what each function does.
+ **Common Errors & Fixes** – Lessons from mistakes and how to avoid them.
 
 ---
 
@@ -40,21 +40,21 @@ This is a **learning-based open-source project**, so feel free to:
 ---
 
 ## 📢 Why I Built This
-I created this project **to help my fellow students** who struggled with the **first-semester Data Structures guided project** at AltSchool Africa. The goal is to make learning easier, encourage problem-solving, and promote **peer-to-peer support**. 
+I created this project **to help my fellow students** who struggled with the **first-semester Data Structures guided project** at AltSchool Africa Tinyuka cohort. The goal is to make learning easier, encourage problem-solving, and promote **peer-to-peer support**. 
 
 Unfortunately, I wasn’t able to complete and submit my assignment before the deadline due to the **limitations of not having a personal computer**. Even while working on this helper function repository, I had to **borrow a laptop just to do what I love doing—helping others and improving my skills.**
 
-I can’t wait for everything to fall into place so I can **help more people, learn even faster, and contribute more meaningfully to the tech community.** Until then, I’ll keep pushing forward with what I have! 🚀
+I can’t wait for everything to fall into place so I can **help more people, learn even faster, and contribute more meaningfully to the tech community.** Until then, I’ll keep pushing forward with what I have! 
 
-If this repo helps you, **give it a ⭐ star on GitHub** and share it with someone who needs it! 🚀
+If this repo helps you, **give it a ⭐ star on GitHub** and share it with someone who needs it! 
 
 ---
 
 ### **📬 Connect With Me**
 💡 **Gana Joshua Danlami**  
 🔗 **GitHub:** [Gana-Joshua-Danlami](https://github.com/Gana-Joshua-Danlami)  
-🐦 **Twitter/X:** [@YourHandle]  
-💼 **LinkedIn:** [Your LinkedIn]  
+🐦 **Twitter/X:** [@[YourHandle](https://x.com/joshofTP)]  
+💼 **LinkedIn:** [[Your LinkedIn](https://www.linkedin.com/in/gana-joshua-danlami-466649241/)]  
 
-🚀 Keep learning, keep building!
+ Keep learning, keep building!
 
