@@ -6,7 +6,7 @@ This repository was created to help **Fellow AltSchool Africa students** better 
 This repo contains:
  **Helper Functions** – Clean, well-structured code that solves each task.
  **Detailed Explanations** – Step-by-step breakdown of what each function does.
- **Common Errors & Fixes** – Lessons from mistakes and how to avoid them.
+ **Common Errors & Fixes** – Lessons from my mistakes and how to avoid them.
 
 ---
 
