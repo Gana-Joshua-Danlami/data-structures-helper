@@ -53,8 +53,8 @@ If this repo helps you, **give it a ⭐ star on GitHub** and share it with someo
 ### **📬 Connect With Me**
 💡 **Gana Joshua Danlami**  
 🔗 **GitHub:** [Gana-Joshua-Danlami](https://github.com/Gana-Joshua-Danlami)  
-🐦 **Twitter/X:** [@[YourHandle](https://x.com/joshofTP)]  
-💼 **LinkedIn:** [[Your LinkedIn](https://www.linkedin.com/in/gana-joshua-danlami-466649241/)]  
+🐦 **Twitter/X:** [@[Gana Joshua Danlami](https://x.com/joshofTP)]  
+💼 **LinkedIn:** [[Gana joshua Danlami](https://www.linkedin.com/in/gana-joshua-danlami-466649241/)]  
 
  Keep learning, keep building!
 
